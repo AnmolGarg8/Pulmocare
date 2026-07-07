@@ -35,11 +35,5 @@ Pulmowarn/
 ├── vite.config.js  # Build configuration
 └── package.json    # Project dependencies
 ```
-
-## 👨‍💻 Author
-**Anmol Garg**  
-B.Tech AI & Data Science  
-Vivekananda Institute of Professional Studies, New Delhi
-
 ---
 *"Every deterioration has a first step. PulmoWarn is designed to find it."*
